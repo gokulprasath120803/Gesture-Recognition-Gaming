@@ -78,3 +78,5 @@ FPS	~20-30 fps
 Tested on M1 Macbook Air 2020
 
 8GB RAM
+
+
